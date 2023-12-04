@@ -1,0 +1,10 @@
+Conditional statements in programming are used to make decisions and execute different blocks of code based on whether a specified condition evaluates to true or false. In JavaScript, there are mainly three types of conditional statements: if, else if, and else
+
+Syntax:
+if (condition1) {
+    //    Code to be executed if condition1 is true
+} else if (condition2) {
+    //    Code to be executed if condition2 is true
+} else {
+    //    Code to be executed if none of the conditions is true
+ }
